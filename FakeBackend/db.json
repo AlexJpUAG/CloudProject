@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Samantha",
+      "age": 15,
+      "height": 146,
+      "weight": 65,
+      "bloodType": "O+",
+      "updatedAt": 1763952305811
+    },
+    {
+      "id": "2",
+      "name": "Usuario Dos",
+      "age": 22,
+      "height": 165,
+      "weight": 60,
+      "bloodType": "A+",
+      "updatedAt": 0
+    }
+  ]
+}
